@@ -69,9 +69,6 @@
 |  <code><img height="50" src="icons/html.svg"></code> |  <code><img height="50" src="icons/css.svg"></code>  | <code><img height="50" src="icons/js.svg"></code>  |  <code><img height="50" src="icons/vuejs.svg"></code> |  <code><img height="50" src="icons/php-96.png"></code> |  <code><img height="50" src="icons/laravel-96.png"></code> |
 </div>
 
-
-
-
 <!-- <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
@@ -105,15 +102,8 @@
 </p> -->
 
 <h3>GitHub Stats:</h3>
-<div style="display: flex;  justify-content:space-between">
-    <!-- <p>
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shafi0313&show_icons=true&locale=en&layout=compact" alt="shafi0313" />
-    </p> -->
-    <p>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=shafi0313&show_icons=true&locale=en" alt="shafi0313" />
-    </p>&nbsp;
-    <p>
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shafi0313&" alt="shafi0313" />
-    </p>
+<div >
+    <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=shafi0313&show_icons=true&locale=en" alt="shafi0313" />
+    <img width="51%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shafi0313&" alt="shafi0313" />
 </div>
 
