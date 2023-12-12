@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Md. Shafiul Hasan</h1>
-<h3 align="center">Web Developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shafi0313&label=Profile%20views&color=0e75b6&style=flat" alt="shafi0313" /> </p>
-
-<p align="left"> <a href="https://twitter.com/shafi0313" target="blank"><img src="https://img.shields.io/twitter/follow/shafi0313?logo=twitter&style=for-the-badge" alt="shafi0313" /></a> </p>
+<!-- <h3 align="center">Web Developer</h3> -->
+<p align="right">
+        <img src="https://komarev.com/ghpvc/?username=shafi0313&label=Profile%20views&color=0e75b6&style=flat" alt="shafi0313" />
+    </p>
 
 - 🔭 I’m currently working on **Advanced Accounting & Record Keeping Software (AARKS)**
 
@@ -11,8 +10,45 @@
 
 - 📫 How to reach me **msh.shafiul@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
+<h3>Connect with me:</h3>
+
+<!-- <h3 style="display: flex; justify-content: space-between;">
+    <p>Connect with me: </p>
+    <p align="right">
+        <img src="https://komarev.com/ghpvc/?username=shafi0313&label=Profile%20views&color=0e75b6&style=flat" alt="shafi0313" />
+    </p>
+</h3> -->
+<div align="center">
+    <a href="mailto:msh.shafiul@gmail.com">
+        <img src="https://img.shields.io/badge/-Mail Me-D14836?style=flat&logo=Gmail&logoColor=white"/>
+    </a>
+    <a href="https://shafi0313.github.io/">
+        <img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white"/>
+    </a>
+    <a href="https://facebook.com/shafi0313">
+        <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/>
+    </a>
+    <a href="https://www.linkedin.com/in/shafi3013/">
+        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
+    </a>
+    <a href="https://twitter.com/shafi3013">
+        <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white"/>
+    </a>
+    <a href="https://twitter.com/shafi3013">
+        <img  src="https://img.shields.io/badge/Leet%20Code-%23FFA116?logo=leetcode&logoColor=white">
+    </a>
+</div>
+
+<br/>
+
+
+<!-- <p align="left"> <a href="https://twitter.com/shafi0313" target="blank"><img src="https://img.shields.io/twitter/follow/shafi0313?logo=twitter&style=for-the-badge" alt="shafi0313" /></a> </p> -->
+
+
+
+<!-- <h3 align="left">Connect with me:</h3> -->
+<!-- <p align="left">
     <a href="https://twitter.com/shafi0313" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shafi0313" height="30" width="40" />
     </a>
@@ -22,21 +58,22 @@
     <a href="https://www.leetcode.com/shafi0313" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shafi0313" height="30" width="40" />
     </a>
-</p>
-
-
-|  HTML | CSS  |  JS | VUE  | PHP  |  LARAVEL |
-|:-:|:-:|:-:|:-:|:-:|---|
-|  <code><img height="50" src="icons/html5.png"></code> |  <code><img height="50" src="icons/css3.png"></code>  | <code><img height="50" src="icons/js.png"></code>  |  <code><img height="50" src="icons/vue.svg"></code> |  <code><img height="50" src="icons/php.png"></code> |  <code><img height="50" src="icons/laravel.ico"></code> |
-
-
-
+</p> -->
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<div align="center">
 
-    <!--
+|  HTML | CSS  |  JS | VUE  | PHP  |  LARAVEL |
+|:-:|:-:|:-:|:-:|:-:|---|
+|  <code><img height="50" src="icons/html.svg"></code> |  <code><img height="50" src="icons/css.svg"></code>  | <code><img height="50" src="icons/js.svg"></code>  |  <code><img height="50" src="icons/vuejs.svg"></code> |  <code><img height="50" src="icons/php-96.png"></code> |  <code><img height="50" src="icons/laravel-96.png"></code> |
+</div>
+
+
+
+
+<!-- <h3 align="left">Languages and Tools:</h3>
+<p align="left">
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
     </a> 
@@ -60,17 +97,23 @@
     </a>
     <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
-    </a>-->
-</p>
+    </a>
+</p> -->
 
-<p>
+<!-- <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shafi0313&show_icons=true&locale=en&layout=compact" alt="shafi0313" />
-</p>
+</p> -->
 
-<p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=shafi0313&show_icons=true&locale=en" alt="shafi0313" />
-</p>
+<h3>GitHub Stats:</h3>
+<div style="display: flex;  justify-content:space-between">
+    <!-- <p>
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shafi0313&show_icons=true&locale=en&layout=compact" alt="shafi0313" />
+    </p> -->
+    <p>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=shafi0313&show_icons=true&locale=en" alt="shafi0313" />
+    </p>&nbsp;
+    <p>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shafi0313&" alt="shafi0313" />
+    </p>
+</div>
 
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shafi0313&" alt="shafi0313" />
-</p>
