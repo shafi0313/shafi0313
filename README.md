@@ -4,20 +4,19 @@
         <img src="https://komarev.com/ghpvc/?username=shafi0313&label=Profile%20views&color=0e75b6&style=flat" alt="shafi0313" />
     </p>
 
+<div align="center" >
+    <img src="gif/programmer.gif" width="600" style="border-radius: 10px;">
+</div>
+<br>
+
 - 🔭 I’m currently working on **Advanced Accounting & Record Keeping Software (AARKS)**
 
 - 🌱 I’m currently learning **Java, React**
 
 - 📫 How to reach me **msh.shafiul@gmail.com**
 
-<h3>Connect with me:</h3>
 
-<!-- <h3 style="display: flex; justify-content: space-between;">
-    <p>Connect with me: </p>
-    <p align="right">
-        <img src="https://komarev.com/ghpvc/?username=shafi0313&label=Profile%20views&color=0e75b6&style=flat" alt="shafi0313" />
-    </p>
-</h3> -->
+<h3>Connect with me:</h3>
 <div align="center">
     <a href="mailto:msh.shafiul@gmail.com">
         <img src="https://img.shields.io/badge/-Mail Me-D14836?style=flat&logo=Gmail&logoColor=white"/>
@@ -41,10 +40,6 @@
 
 <br/>
 
-
-<!-- <p align="left"> <a href="https://twitter.com/shafi0313" target="blank"><img src="https://img.shields.io/twitter/follow/shafi0313?logo=twitter&style=for-the-badge" alt="shafi0313" /></a> </p> -->
-
-
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
 
@@ -54,8 +49,12 @@
 </div>
 
 <h3>GitHub Stats:</h3>
-<div >
+<div align="center">
     <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=shafi0313&show_icons=true&locale=en&theme=radical" alt="shafi0313" />
     <img width="51%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shafi0313&theme=radical" alt="shafi0313" />
 </div>
+
+<p align="center" style="max-width: 600px; margin: 0 auto">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shafi0313&show_icons=true&locale=en&layout=compact&theme=radical" alt="shafi0313" />
+</p>
 
