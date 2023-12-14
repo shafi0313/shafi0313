@@ -5,7 +5,7 @@
     </p>
 
 <div align="center" >
-    <img src="gif/programmer.gif" width="600" style="border-radius: 10px;">
+    <img src="gif/programmer.gif" width="600">
 </div>
 <br>
 
@@ -54,7 +54,7 @@
     <img width="51%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shafi0313&theme=radical" alt="shafi0313" />
 </div>
 
-<p align="center" style="max-width: 600px; margin: 0 auto">
+<p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shafi0313&show_icons=true&locale=en&layout=compact&theme=radical" alt="shafi0313" />
 </p>
 
