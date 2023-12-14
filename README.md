@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **msh.shafiul@gmail.com**
 
-
 <h3>Connect with me:</h3>
 
 <!-- <h3 style="display: flex; justify-content: space-between;">
